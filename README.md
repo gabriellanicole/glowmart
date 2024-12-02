@@ -24,3 +24,8 @@ Student ID: 3035947350
 ---
 
 This project is developed as part of the coursework for **IMSE4119: Digital Enterprises and E-commerce** under the **Department of Industrial and Manufacturing Systems Engineering** at **The University of Hong Kong**.
+
+### **References**
+https://github.com/evershopcommerce/evershop
+
+---
